@@ -24,6 +24,7 @@ Modelagem de uma plataforma para sugerir músicas aos usuários com base nas mú
 - (:Musica)-[:COMPOSTA_POR]->(:Artista) Qual artista compos a música.
 
 ## Modelagem do diagrama de dados
+![Model Graph Plataform](data_model_graph.png)
 
 ## Exemplos de Cypher querys
 - Recomendação de musicas com base no genero das musicas que o usuario ouviu
