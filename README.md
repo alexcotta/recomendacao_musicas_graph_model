@@ -1,4 +1,4 @@
-# Graph data model da plataforma de filmes e séries
+# Graph data model da plataforma recomendação de musicas.
 
 Modelagem de uma plataforma para sugerir músicas aos usuários com base nas músicas, gêneros musicais, artistas das músicas ouvidas anteriormente, pelo próprio usuário ou com base nas interações dos outros usuários com escolhas parecidas. A plataforma foi modelada com base na arquitetura de dados com grafos utilizando-se do Neo4J como principal tecnologia para a resolução das questões de sugestões de músicas levantadas.
 
